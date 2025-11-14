@@ -6,7 +6,8 @@
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi This is the third test, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+    for i in range(10):
+        print(f'Hi This is the third test, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
 # Press the green button in the gutter to run the script.
